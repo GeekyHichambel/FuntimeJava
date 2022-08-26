@@ -7,7 +7,7 @@ public class tabletime
      int n,i,z;
      System.out.println("Enter the number whose table is required: ");
      n=input.nextInt();
-  System.out.print("The table of"+n+"is given below: ");
+  System.out.println("The table of"+n+"is given below: ");
      for (i=1;i<=10;i++){
          z = n*i;
       System.out.println(n+"X"+i+"is"+z);

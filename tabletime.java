@@ -9,7 +9,7 @@ public class tabletime
      n=input.nextInt();
      for (i=1;i<=10;i++){
          z = n*i;
-        System.ou.print("THe table of"+n+"is given below: ");
+        System.out.print("THe table of"+n+"is given below: ");
       System.out.println(n+"X"+i+"is"+z);
     }
  }
